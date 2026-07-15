@@ -480,3 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Local IDE and AI assistant settings
+.idea/
+.claude/
